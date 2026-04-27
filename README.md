@@ -94,7 +94,3 @@ This skill follows several constraints to keep the writing faithful to practical
 - Prefer two or three strong challenges over a long list of weak claims.
 - Keep contribution bullets parallel: model or theory, method or system, implementation or evaluation.
 - Do not fabricate prototype, commodity-device, or quantitative claims when they are not supported by the user's work.
-
-## License
-
-Add your preferred open-source license before publishing this repository.
